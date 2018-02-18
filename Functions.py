@@ -47,3 +47,8 @@ def add_date_stamp(imx):
     draw.text(xy=(20, 50), text=time_24, fill=(255, 255, 0), font=font_type)
 
     image.save(imx, "JPEG")
+    
+    
+    
+    
+    
