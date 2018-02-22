@@ -10,3 +10,8 @@ This program was created in order to provide up-to-date images for an area of fo
 Note:
 In the next version, a better metering system will be developed, and an attempt to upload short videos, rather than images, will be made. 
 
+
+
+
+
+
